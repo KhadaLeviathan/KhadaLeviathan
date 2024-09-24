@@ -1,5 +1,5 @@
 - Hello, I’m Christian.
-- My hobbies is mainly gaming related and I haven taken an interest in coding.
+- My hobbies are mainly gaming related and I haven taken an interest in coding.
 - I am currently studying JavaScript (and C++ soon, hopefully).
 - How to reach me - Discord/Instagram - DISCORD = ( leviathan0051 ), INSTAGRAM = ( khadaleviathann )
 - Fun fact: Originally, my goal was to develop a game using C++, but during my time in university, my interested shifted towards web and app development.
